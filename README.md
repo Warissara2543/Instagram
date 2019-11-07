@@ -1,2 +1,2 @@
 # Instragram
-Tarit Petnu
+Jirachot Janurai
